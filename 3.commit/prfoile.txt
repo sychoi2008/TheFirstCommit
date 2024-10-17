@@ -1,2 +1,2 @@
-email :
-gitID :
+email : sychoi2008@sookmyung.ac.kr
+gitID : sychoi2008
